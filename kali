@@ -1,0 +1,3 @@
+as root while replacing the yellow highlighted text by your surname:
+echo "PROMPT=$'%F{%(#.blue.green)}┌──${debian_chroot:+($debian_chroot)─}${VIRTUAL_ENV:+($(basename 
+$VIRTUAL_ENV))─}(%B%F{%(#.red.blue)}%n@NAME-SURNAME
